@@ -1,0 +1,158 @@
+[10:27 PM, 8/19/2022] +44 7394 894651: Collection Of Hacking Operating Systems
+
+#operating_systems
+
+These are OS that have been designed specifically for hackers.
+
+✔️ Backtrack5r3
+🔗 Link : 
+https://linux.softpedia.com/dyn-postdownload.php/c230432fe1fe505590023b5beaf41c36/5f2d2982/2505/0/1
+
+✔️ Kalilinux
+🔗 Link : 
+https://cdimage.kali.org/kali-2020.2/kali-linux-2020.2-installer-amd64.iso
+
+✔️ Knoppix
+🔗 Link :
+http://www.knopper.net/knoppix-mirrors/
+
+✔️ Backbox linux
+🔗 Link :
+https://www.backbox.org/download/
+
+✔️ Pentoo
+🔗 Link :
+https://www.pentoo.ch/isos/latest-iso-symlinks/Daily/
+
+✔️ Matriux Krypton
+🔗 Link :
+https://sourceforge.net/projects/matriux/
+
+✔️ NodeZero
+🔗 Link : 
+https://sourceforge.net/projects/nodezero/files/NodeZero/NodeZero.iso/download
+
+✔️ Blackbuntu
+🔗 Link : 
+https://sourceforge.net/projects/blackbuntu/
+
+✔️ CAINE (Computer Forensics Linux Live Distro)
+🔗 Link :
+https://mirror.parrotsec.org/mirrors/parrot/iso/caine/caine11.0.iso
+
+✔️ DEFT
+🔗 Link :
+http://na.mirror.garr.it/mirrors/deft/iso/
+
+✔️ Arch Linux
+🔗 Link :
+http://mirrors.evowise.com/archlinux/iso/2020.08.01/
+
+✔️ Qubes OS
+🔗 Link : 
+https://mirrors.edge.kernel.org/qubes/iso/Qubes-R4.0.3-x86_64.iso
+
+✔️ Tails OS 
+🔗 Link :
+https://tails.boum.org/install/index.en.html
+
+✔️ Parrot OS
+⚠️ Note There Are Different Notes, Read Here First: https://www.parrotsec.org/docs/getting-started/download/
+
+🔗 Link :
+https://www.parrotsec.org/download/
+
+✔️ Samurai Web Testing Framework
+🔗 Link :
+https://sourceforge.net/projects/samurai/files/
+
+✔️ BugTrack
+🔗 Link : 
+https://sourceforge.net/projects/btrack/
+
+✔️ Weakerthan Linux (Changed to Demon Linux)
+🔗 Link : 
+https://demonlinux.com/download/iso/demon-2.4.4.iso
+
+✔️ Cerberus (Windows)
+🔗 Link : 
+https://mega.nz/file/1ZVRgSoQ#RsUCmgH_uJRmB1hg7YmseE9Lnz1VUZBYe-bjRckbNDs
+
+✔️ Black Spider v2 (Windows)
+🔗 Link : 
+https://drive.google.com/file/d/1zbvIhyLsz0q6nDGifnkBSzZaip67WdFP/view
+
+✔️ Black Arch 
+🔗 Link : 
+https://ftp.halifax.rwth-aachen.de/blackarch/iso/blackarch-linux-live-2020.06.01-x86_64.iso
+
+✔️ Network Security Toolkit (NST)
+🔗 Link :
+https://sourceforge.net/projects/nst/
+
+✔️ Cyborg Hawk Linux 
+🔗 Link : 
+https://sourceforge.net/projects/cyborghawk1/files/Cyborg%20Hawk%20v1.1/cyborg-hawk-linux-v-1.1.iso/download
+
+🔻SHARE AND SUPPORT US🔻
+[10:27 PM, 8/19/2022] +44 7394 894651: 😍 Premium Ethical Hacking Core Complete Training 2022 free 😍
+
+❤️‍🔥Basics
+https://mega.nz/folder/q1sBVA5S#fpOQ-RabcJ1ZzOWzltBDNQ
+
+❤️‍🔥 Reconnaissance and Footprinting
+https://mega.nz/folder/mwshSA5B#PbaxlFQVrOgfZu0BqNyVcg
+
+❤️‍🔥 Network Scanning 
+https://mega.nz/folder/O9llBCDB#W6tbLrqTmnBxVJ6SaXL8ZQ
+
+❤️‍🔥Enumeration
+https://mega.nz/folder/D0kVVCDA#qvANCi963li4nX20VhmsOg
+
+❤️‍🔥Firewalls HIDs Honeypot
+https://mega.nz/folder/ahlTkQYB#90zz0zgkqI9jfN4NkdNJeg
+
+❤️‍🔥Malware and Threats
+https://mega.nz/folder/3l1FkCKa#v4zPLgKw0Rt83OivNB3ecw
+
+❤️‍🔥Mobile Platform
+https://mega.nz/folder/n0ljgIJS#ClKBZrCcwVxrtvRH2Xufag
+
+❤️‍🔥Pentesting
+https://mega.nz/folder/3lkVRC5J#yYbWkNmr9TSNRJeuWjv8wA
+
+❤️‍🔥Sql Injection
+https://mega.nz/folder/T58BCaZA#Y0qA4kVlL89sa_aqKTfF6w
+
+❤️‍🔥 System Hacking 
+https://mega.nz/folder/fl0zASTQ#LmHEdWMV3rLOH6uaN8NumQ
+
+❤️‍🔥 Web Server
+https://mega.nz/folder/WhljyCJY#Kjv8_NAjZMDXsSsTuEQZTA
+
+❤️‍🔥 Wireless Network
+https://mega.nz/folder/KpkRyaLC#T5__v0YRn-v1zApPobqHLg
+
+❤️‍🔥Cloud Computing
+https://mega.nz/folder/W9lRTS7R#h8dIqNU09Ailu5zbZDXBxw
+
+❤️‍🔥Web Application
+https://mega.nz/folder/2493FKiT#oszsZfvXROVzxzuMb-L-nA
+
+❤️‍🔥 Social Engineering
+https://mega.nz/folder/HgkRkQwa#tIFjoPKSF_x4WghMXbCAAw
+
+❤️‍🔥 Session Hijacking
+https://mega.nz/folder/vwsThKrK#_EP-v9duwWRXhFy1iSLaGQ
+
+❤️‍🔥 Sniffing
+https://mega.nz/folder/L41lhAaJ#IrSlNc_Ui_IyU05jLom8Iw
+
+❤️‍🔥BufferOverflow
+https://mega.nz/folder/as93RYrA#p8-xQUIyIvwiwZUY-3zYYQ
+
+❤️‍🔥Cryptography
+https://mega.nz/folder/fltjAapQ#WlwEsa4VZl1RrEEiHwHdUQ
+
+❤️‍🔥Denial Of Service
+https://mega.nz/folder/L801WYAC#CKzDuFRkTumpea2zfd8ieA

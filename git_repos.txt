@@ -1,0 +1,61 @@
+🦥 LazyRecon — An automated approch to performing recon for bug bounty 🦥
+
+LazyRecon is a wrapper of various scripts that automates the tedious and redundant process of reconnaissance of a target domain.
+
+LazyRecon utilizes the following tools:
+
+Subdomain Enumeration:
+▪️Amass ( https://github.com/OWASP/Amass )
+▪️Subfinder ( https://github.com/subfinder/subfinder )
+
+Subdomain Takeover:
+▪️subjack (https://github.com/haccer/subjack )
+
+CORS Configuration:
+▪️CORScanner ( https://github.com/chenjj/CORScanner )
+
+IP Discovery:
+▪️Massdns ( https://github.com/blechschmidt/massdns )
+
+Port Scanning:
+▪️Masscan ( https://github.com/robertdavidgraham/masscan )
+▪️Nmap ( https://nmap.org/ )
+▪️Nmap Bootstrap Stylesheet ( https://github.com/honze-net/nmap-bootstrap-xsl/ )
+
+Visual Recon:
+▪️Aquatone ( https://github.com/michenriksen/aquatone )
+
+Content Discovery:
+▪️Dirsearch ( https://github.com/maurosoria/dirsearch )
+
+Wordlists:
+▪️JHaddix's all.txt ( https://gist.github.com/jhaddix/f64c97d0863a78454e44c2f7119c2a6a )
+▪️SecLists' raft-large-words.txt ( https://github.com/danielmiessler/SecLists/blob/master/Discovery/Web-Content/raft-large-words.txt )
+
+Installation
+
+First, run the following commands to install the latest version of Go.
+
+git clone https://github.com/capt-meelo/LazyRecon.git
+cd LazyRecon
+source get-go.sh
+
+Then, modify the subEnumTools() function of install.sh by placing your Virustotal, Passivetotal, SecurityTrails, Censys, Riddler, and Shodan API keys. This will give better results during the subdomain enumeration.
+
+~/go/bin/subfinder --set-config VirustotalAPIKey=<API-KEY-HERE>
+~/go/bin/subfinder --set-config PassivetotalUsername=<API-KEY-HERE>,PassivetotalKey=<API-KEY-HERE>
+~/go/bin/subfinder --set-config SecurityTrailsKey=<API-KEY-HERE>
+~/go/bin/subfinder --set-config RiddlerEmail=<API-KEY-HERE>,RiddlerPassword=<API-KEY-HERE>
+~/go/bin/subfinder --set-config CensysUsername=<API-KEY-HERE>,CensysSecret=<API-KEY-HERE>
+~/go/bin/subfinder --set-config ShodanAPIKey=<API-KEY-HERE>
+
+Finally, run the following to install the required tools.
+
+chmod +x install.sh
+./install.sh
+
+How To Use ⚙️
+
+cd LazyRecon
+chmod +x LazyRecon.sh
+./LazyRecon.sh <target_domain>
